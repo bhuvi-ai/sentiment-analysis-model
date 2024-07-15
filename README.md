@@ -51,7 +51,7 @@ The model's performance is evaluated on test and validation datasets.
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/emotion-classification-bilstm.git
+   git clone https://github.com/bhuvi-ai/sentiment-analysis-model.git
    cd emotion-classification-bilstm
 2. Extract the Data:
 
