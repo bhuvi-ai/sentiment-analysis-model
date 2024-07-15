@@ -1,0 +1,9 @@
+pip install pandas
+pip install matplotlib
+pip install seaborn
+pip install wordcloud
+pip install emoji
+pip install re
+pip install pickle
+pip install scikit-learn
+pip install tensorflow
